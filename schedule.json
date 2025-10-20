@@ -1,15 +1,77 @@
 [
   {
-    "date": "2025-10-22",
+    "date": "2025-10-03",
     "events": [
-      { "time": "09:00", "title": "Majlis Bacaan Yasin" },
-      { "time": "18:00", "title": "Talk Show Bersama Ustaz" }
+      {
+        "time": "09:00",
+        "speaker": "Ust. Ahmad Zulkifli",
+        "title": "Tazkirah Subuh"
+      },
+      {
+        "time": "18:00",
+        "speaker": "Dr. Rahman Aziz",
+        "title": "Bicara Petang: Akhlak dan Ilmu"
+      }
     ]
   },
   {
-    "date": "2025-10-25",
+    "date": "2025-10-04",
     "events": [
-      { "time": "19:30", "title": "Kuliah Maghrib" }
+      {
+        "time": "20:30",
+        "speaker": "Imam Haji Salleh",
+        "title": "Kuliah Maghrib"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-08",
+    "events": [
+      {
+        "time": "08:00",
+        "speaker": "Ust. Khalid Zainal",
+        "title": "Tazkirah Dhuha"
+      },
+      {
+        "time": "18:00",
+        "speaker": "Dr. Haji Kamal",
+        "title": "Bicara Petang: Akhlak dan Ilmu"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-16",
+    "events": [
+      {
+        "time": "20:30",
+        "speaker": "Imam Ust Nazri",
+        "title": "Kuliah Maghrib"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-18",
+    "events": [
+      {
+        "time": "08:00",
+        "speaker": "Ust. Khalid Zainal",
+        "title": "Tazkirah Dhuha"
+      },
+      {
+        "time": "18:00",
+        "speaker": "Dr. Haji Kamal",
+        "title": "Bicara Petang: Akhlak dan Ilmu"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-29",
+    "events": [
+      {
+        "time": "20:30",
+        "speaker": "Imam Ust Nazri",
+        "title": "Kuliah Maghrib"
+      }
     ]
   }
 ]
