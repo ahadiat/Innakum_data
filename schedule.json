@@ -1,0 +1,15 @@
+[
+  {
+    "date": "2025-10-22",
+    "events": [
+      { "time": "09:00", "title": "Majlis Bacaan Yasin" },
+      { "time": "18:00", "title": "Talk Show Bersama Ustaz" }
+    ]
+  },
+  {
+    "date": "2025-10-25",
+    "events": [
+      { "time": "19:30", "title": "Kuliah Maghrib" }
+    ]
+  }
+]
