@@ -1,51 +1,101 @@
 [
   {
-    "date": "2025-10-03",
+    "date": "2025-10-01",
     "events": [
       {
-        "time": "09:00",
-        "speaker": "Ust. Ahmad Zulkifli",
-        "title": "Tazkirah Subuh"
+        "time": "08:00",
+        "speaker": "Ust. Mohd Razali",
+        "title": "Tazkirah Dhuha: Syukur Nikmat"
       },
-      {
-        "time": "18:00",
-        "speaker": "Dr. Rahman Aziz",
-        "title": "Bicara Petang: Akhlak dan Ilmu"
-      }
-    ]
-  },
-  {
-    "date": "2025-10-04",
-    "events": [
       {
         "time": "20:30",
         "speaker": "Imam Haji Salleh",
-        "title": "Kuliah Maghrib"
+        "title": "Kuliah Maghrib: Tafsir Surah Yasin"
       }
     ]
   },
   {
-    "date": "2025-10-08",
+    "date": "2025-10-03",
+    "events": [
+      {
+        "time": "12:30",
+        "speaker": "Dr. Ahmad Faiz",
+        "title": "Khutbah Jumaat: Tanggungjawab Umat"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-05",
+    "events": [
+      {
+        "time": "09:00",
+        "speaker": "Ust. Nazri Mansor",
+        "title": "Kelas Fardhu Ain Mingguan"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-07",
     "events": [
       {
         "time": "08:00",
         "speaker": "Ust. Khalid Zainal",
-        "title": "Tazkirah Dhuha"
+        "title": "Tazkirah Dhuha: Keberkatan Masa"
       },
       {
         "time": "18:00",
         "speaker": "Dr. Haji Kamal",
-        "title": "Bicara Petang: Akhlak dan Ilmu"
+        "title": "Bicara Petang: Akhlak & Ilmu"
       }
     ]
   },
   {
-    "date": "2025-10-16",
+    "date": "2025-10-10",
+    "events": [
+      {
+        "time": "12:30",
+        "speaker": "Ust. Ahmad Zulkifli",
+        "title": "Khutbah Jumaat: Sabar dan Syukur"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-11",
     "events": [
       {
         "time": "20:30",
-        "speaker": "Imam Ust Nazri",
-        "title": "Kuliah Maghrib"
+        "speaker": "Imam Haji Salleh",
+        "title": "Kuliah Maghrib: Sirah Nabi"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-13",
+    "events": [
+      {
+        "time": "08:00",
+        "speaker": "Ust. Mohd Hafiz",
+        "title": "Tazkirah Dhuha: Keikhlasan Hati"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-15",
+    "events": [
+      {
+        "time": "20:30",
+        "speaker": "Imam Haji Rahim",
+        "title": "Kuliah Maghrib: Fiqh Solat"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-17",
+    "events": [
+      {
+        "time": "12:30",
+        "speaker": "Ust. Jamaluddin",
+        "title": "Khutbah Jumaat: Menjaga Silaturrahim"
       }
     ]
   },
@@ -53,14 +103,54 @@
     "date": "2025-10-18",
     "events": [
       {
-        "time": "08:00",
+        "time": "09:00",
         "speaker": "Ust. Khalid Zainal",
-        "title": "Tazkirah Dhuha"
+        "title": "Tazkirah Subuh: Doa & Tawakal"
       },
       {
         "time": "18:00",
         "speaker": "Dr. Haji Kamal",
-        "title": "Bicara Petang: Akhlak dan Ilmu"
+        "title": "Forum Petang: Keluarga Bahagia"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-21",
+    "events": [
+      {
+        "time": "08:00",
+        "speaker": "Ust. Nazri Mansor",
+        "title": "Tazkirah Dhuha: Amanah dan Integriti"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-24",
+    "events": [
+      {
+        "time": "12:30",
+        "speaker": "Dr. Ahmad Faiz",
+        "title": "Khutbah Jumaat: Peranan Masjid"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-25",
+    "events": [
+      {
+        "time": "20:30",
+        "speaker": "Imam Ust. Nazri",
+        "title": "Kuliah Maghrib: Hadis Pilihan"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-27",
+    "events": [
+      {
+        "time": "08:00",
+        "speaker": "Ust. Mohd Razali",
+        "title": "Tazkirah Dhuha: Rezeki Halal"
       }
     ]
   },
@@ -69,8 +159,23 @@
     "events": [
       {
         "time": "20:30",
-        "speaker": "Imam Ust Nazri",
-        "title": "Kuliah Maghrib"
+        "speaker": "Imam Haji Salleh",
+        "title": "Kuliah Maghrib: Tafsir Juz Amma"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-31",
+    "events": [
+      {
+        "time": "12:30",
+        "speaker": "Ust. Ahmad Zulkifli",
+        "title": "Khutbah Jumaat: Keberkatan Solat"
+      },
+      {
+        "time": "20:30",
+        "speaker": "Dr. Rahman Aziz",
+        "title": "Ceramah Perdana Bulanan"
       }
     ]
   }
